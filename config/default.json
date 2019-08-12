@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://maxime:maxime68@api-testing-cluster-dwv1g.mongodb.net/test?retryWrites=true&w=majority"
+}
